@@ -25,7 +25,7 @@ La montre connectée implémente les fonctionnalités suivantes:
 *   **Shield Capteurs**: ST IKS01A3 (intégrant LSM6DSO, LIS2MDL, HTS221).
 *   **Écran Tactile**: Adafruit 2.8" TFT Touch Shield v2.
 *   **Module RTC**: RV-8263-C8 de Micro Crystal.
-*   **Carte de Développement**: [Il faudrait spécifier ici la carte nRF5340 utilisée, par exemple nRF5340 DK].
+
 
 ## Logiciel Utilisé
 
