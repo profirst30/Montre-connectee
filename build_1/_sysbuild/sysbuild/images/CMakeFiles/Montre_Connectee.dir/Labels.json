@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/CMakeFiles/Montre_Connectee"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/CMakeFiles/Montre_Connectee.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/CMakeFiles/Montre_Connectee-complete.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/Montre_Connectee-prefix/src/Montre_Connectee-stamp/Montre_Connectee-build.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/Montre_Connectee-prefix/src/Montre_Connectee-stamp/Montre_Connectee-configure.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/Montre_Connectee-prefix/src/Montre_Connectee-stamp/Montre_Connectee-download.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/Montre_Connectee-prefix/src/Montre_Connectee-stamp/Montre_Connectee-install.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/Montre_Connectee-prefix/src/Montre_Connectee-stamp/Montre_Connectee-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/Montre_Connectee-prefix/src/Montre_Connectee-stamp/Montre_Connectee-patch.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/Montre_Connectee/build_1/_sysbuild/sysbuild/images/Montre_Connectee-prefix/src/Montre_Connectee-stamp/Montre_Connectee-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Montre_Connectee"
+		],
+		"name" : "Montre_Connectee"
+	}
+}

@@ -1,0 +1,20 @@
+SET(SOURCES screens/ui_Screen1.c
+    screens/ui_Screen2.c
+    screens/ui_Screen3.c
+    screens/ui_Screen5.c
+    screens/ui_Screen4.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    images/ui_img_parametre1_30x30_png.c
+    images/ui_img_1270785427.c
+    fonts/ui_font_SFPRO16.c
+    fonts/ui_font_SFPRO18.c
+    fonts/ui_font_SFPRO20.c
+    fonts/ui_font_SFPRO25.c
+    fonts/ui_font_SFPRO30.c
+    fonts/ui_font_SFPRO40.c
+    fonts/ui_font_SFPRO48.c
+    fonts/ui_font_SFPRO72.c)
+
+add_library(ui ${SOURCES})

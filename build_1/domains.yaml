@@ -1,0 +1,10 @@
+default: Montre_Connectee
+build_dir: C:/Users/User/Downloads/Montre_Connectee/build_1
+domains:
+  - name: Montre_Connectee
+    build_dir: C:/Users/User/Downloads/Montre_Connectee/build_1/Montre_Connectee
+  - name: ipc_radio
+    build_dir: C:/Users/User/Downloads/Montre_Connectee/build_1/ipc_radio
+flash_order:
+  - ipc_radio
+  - Montre_Connectee

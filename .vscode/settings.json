@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "streambuf": "c"
+    },
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ]
+}

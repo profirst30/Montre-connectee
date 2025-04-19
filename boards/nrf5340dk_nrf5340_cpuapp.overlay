@@ -1,0 +1,41 @@
+/*
+ * Copyright (c) 2024 STMicroelectronics
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/*
+ * Sensors declared here are possibly present on DIL24
+ */
+/* 
+ &arduino_i2c {
+	status = "okay";
+
+	lis2de18_18_x_nucleo_iks01a3: lis2de12@18 {
+		compatible = "st,lis2de12";
+		reg = <0x18>;
+		int1-gpios =  <&arduino_header 5 GPIO_ACTIVE_HIGH>;
+	};
+};*/
+
+
+&i2c1 {
+    status = "okay";
+
+    rv8263: rtc@51 {
+        compatible = "microcrystal,rv-8263-c8";
+        reg = <0x51>;
+        label = "RTC_RV8263";
+        clkout = <0>;  // ou <32768> si tu veux l'utiliser
+        int-gpios = <&gpio0 2 GPIO_ACTIVE_LOW>; // << ajouté pour éviter les erreurs
+    };
+};
+
+/ {
+    int_gpio {
+        compatible = "gpio-keys";
+        arduino_d2: arduinod2 {
+        gpios = <&arduino_header 8 GPIO_ACTIVE_LOW>;
+            };
+        };
+    };    

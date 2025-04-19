@@ -1,0 +1,13 @@
+# Target labels
+ ipc_radio
+# Source files and their labels
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/CMakeFiles/ipc_radio
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/CMakeFiles/ipc_radio.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/CMakeFiles/ipc_radio-complete.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-build.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-configure.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-download.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-install.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-mkdir.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-patch.rule
+C:/Users/User/Downloads/Montre_Connectee/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-update.rule
