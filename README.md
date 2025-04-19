@@ -1,4 +1,4 @@
-```markdown
+
 # Montre Connectée - Projet Module Systèmes Embarqués Communicants
 
 ## Description du Projet
@@ -53,4 +53,3 @@ Une fois le firmware flashé sur la montre, l'écran tactile permet de naviguer 
 *   **[Rayane DJENADOU]** 
 
 
-```
